@@ -1,6 +1,7 @@
-# klimatic
+# Weather Sample
 
-klimatic app
+Get Weather
+
 
 ## Getting Started
 
